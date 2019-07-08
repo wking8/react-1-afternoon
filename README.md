@@ -702,7 +702,7 @@ In this step, we'll build out the `FilterObject` component.
   * `div` - className="puzzleBox filterObjectPB"
   * The first `span` - className="puzzleText"
   * `input` - className="inputLine"
-  * `button` - className="confirmationButton"
+  * `button` - className=" classnam"
   * The last `span` - className="resultsBox filterObjectRB"
 * Assign the `h4` element the value of `"Filter Object"`.
 * Create a `constructor` method that creates an initial state:
